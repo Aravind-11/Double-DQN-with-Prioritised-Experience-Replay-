@@ -1,0 +1,12 @@
+def learning_rate():
+    return 0.0003
+def gamma():
+    return 0.99
+def tau():
+    return 0.01
+def buffer_size():
+    return 10000
+def MAX_STEPS():
+    return 500
+def BATCH_SIZE():
+    return 32
